@@ -1,9 +1,17 @@
 ### Hi there, I'm Kim Denisenko  👋
 
 ## Data Scientist
-- 🔭 Currently searching for job
+- :white_check_mark: Successfully graduated from [Yandex Practicum](https://practicum.yandex.ru/) as a certified Data Scientist
+- 🔭 Currently searching for a job
 - 🥅 2023 Goals: Middle Data Scientist
 - ⚡ Fun Fact: love trading to the marrow of my bones
+
+Started my professional way in data as a trader, setting up research project on the futures and forex markets in the end of 2010 year. By being a team leader I gathered talented people who had experience in programming to automize data collecting. We analyzed large amounts of data. Used statistics and probability theory to predict possible price movements in the short and medium term. 
+
+Working in a managerial position at b2b company for the last years gives me opportunity to comprehensively assess the needs of the business. That's why as a Data Scientist I deeply understand every business task. One could argue that Data Science is a logical continuation of my professional way. 
+
+Today I'm experienced in building predictive modeling, data processing, and visualization. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
+
 
 ### Connect with me:
 [<img align="left" alt="SATVRN | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
