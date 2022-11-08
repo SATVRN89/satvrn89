@@ -6,7 +6,7 @@
 - 🥅 2023 Goals: Middle Data Scientist
 - ⚡ Fun Fact: love trading to the marrow of my bones
 
-Started my professional way in data as a trader, setting up research project on the futures and forex markets in the end of 2010 year. By being a team leader I gathered talented people who had experience in programming to automize data collecting. We analyzed large amounts of data. Used statistics and probability theory to predict possible price movements in the short and medium term. 
+Started my professional way in data as a trader, setting up research project on the futures and forex markets in the end of 2009 year. By being a team leader I gathered talented people who had experience in programming to automize data collecting. We analyzed large amounts of data. Used statistics and probability theory to predict possible price movements in the short and medium term. 
 
 Working in a managerial position at b2b company for the last years gives me opportunity to comprehensively assess the needs of the business. That's why as a Data Scientist I deeply understand every business task. One could argue that Data Science is a logical continuation of my professional way. 
 
