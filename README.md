@@ -1,20 +1,16 @@
 ### Hi there, I'm Kim Denisenko  👋
 
-## Data Scientist
+## Data Analyst
+
+- :fist_raised: Data Analyst with 2+ years of experience
+- 🥅 2025 Goals: Senior Data Analyst
 - :white_check_mark: Successfully graduated from [Yandex Practicum](https://practicum.yandex.ru/) as a certified Data Scientist
-- 🔭 Currently searching for a job
-- 🥅 2023 Goals: Middle Data Scientist
-- ⚡ Fun Fact: love trading to the marrow of my bones
+- ⚡ Fun Fact: I was a champion of pool billiard in my country
 
-Started my professional way in data as a trader, setting up research project on the futures and forex markets in the end of 2009 year. By being a team leader I gathered talented people who had experience in programming to automize data collecting. We analyzed large amounts of data. Used statistics and probability theory to predict possible price movements in the short and medium term. 
-
-Working in a managerial position at b2b company for the last years gives me opportunity to comprehensively assess the needs of the business. That's why as a Data Scientist I deeply understand every business task. One could argue that Data Science is a logical continuation of my professional way. 
-
-Today I'm experienced in building predictive modeling, data processing, and visualization. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
+Data Analyst with managerial experience specializing in developing solutions for process automation, creating dashboards, and implementing machine learning models. Skilled in working with large datasets, identifying key insights, and improving efficiency through statistical analysis and predictive modeling. Committed to leveraging analytical skills to solve complex problems and deliver value to the business.
 
 
 ### Connect with me:
-[<img align="left" alt="SATVRN | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="SATVRN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -40,5 +36,4 @@ Today I'm experienced in building predictive modeling, data processing, and visu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SATVRN89&hide=css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
-[telegram]: https://t.me/SATVRN
 [linkedin]: https://www.linkedin.com/in/kim-denisenko-8b0b41a1/
