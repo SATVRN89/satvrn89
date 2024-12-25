@@ -36,4 +36,4 @@ Data Analyst with managerial experience specializing in developing solutions for
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SATVRN89&hide=css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
-[linkedin]: https://www.linkedin.com/in/kim-denisenko-8b0b41a1/
+[linkedin]: https://www.linkedin.com/in/kimdzenisenka/
