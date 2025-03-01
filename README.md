@@ -2,7 +2,7 @@
 
 ## Data Analyst
 
-- :fist_raised: Data Analyst with 2+ years of experience
+- :fist_raised: Experienced Data Analyst
 - 🥅 2025 Goals: Senior Data Analyst
 - :white_check_mark: Successfully graduated from [Yandex Practicum](https://practicum.yandex.ru/) as a certified Data Scientist
 - ⚡ Fun Fact: I was a champion of pool billiard in my country
